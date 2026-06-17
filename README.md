@@ -1,6 +1,6 @@
 # Hi, I'm Hari 👋
 
-🚀 **AI/ML Engineer | Python & Java Enthusiast | Daily GitHub Contributor**
+🚀 ** Full Stack Web Development | AI/ML | Python & Java Enthusiast | Daily GitHub Contributor**
 
 <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300" align="right" />
 
@@ -39,7 +39,7 @@
 - [**Data Structures & Algorithms**](https://github.com/Harivsrd/data-structures-and-algorithms)  
   Daily problem solutions with explanations and clean repo organization.  
 
-- [**Python Banking System**](https://github.com/Harivsrd/Python_Class_Notes)  
+- [**Django Project**](https://github.com/Harivsrd/Python_Class_Notes)  
   Realistic simulation with transaction logging, overdraft tracking, and modular extensibility.  
 
 ---
