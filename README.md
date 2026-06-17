@@ -1,75 +1,54 @@
-# Hey there! 👋 Welcome to my GitHub
+# Hi, I'm Hari 👋
 
-I'm a passionate developer committed to building meaningful software solutions and contributing to open-source communities.
+🚀 **AI/ML Engineer | Python & Java Enthusiast | Daily GitHub Contributor**
+
+<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300" align="right" />
 
 ---
 
-## 🚀 About Me
-
-I'm driven by curiosity and a love for problem-solving. I enjoy exploring new technologies, collaborating with talented teams, and creating code that makes an impact. Whether it's backend systems, full-stack applications, or developer tools, I'm always eager to learn and grow.
-
-- 🔭 Currently working on impactful projects
-- 🌱 Continuously learning and expanding my skill set
-- 💬 Open to collaborating on interesting ideas
-- 📧 Reach out if you'd like to connect!
+## 🌟 About Me
+- 🔭 Building a **menu‑driven Banking System in Python** with OOP pillars  
+- 🌱 Exploring **Django REST Framework** and **Cloud Deployments**  
+- 💡 Passionate about **intelligent automation** and **algorithm design**  
+- ⚡ Debugging recursion and stack problems until they surrender 😅  
 
 ---
 
 ## 🛠️ Tech Stack
-
-**Languages:** JavaScript, Python, Java, TypeScript, SQL
-
-**Frontend:** React, HTML5, CSS3, Tailwind CSS
-
-**Backend:** Node.js, Express, REST APIs
-
-**Databases:** PostgreSQL, MongoDB, MySQL
-
-**Tools & Platforms:** Git, Docker, AWS, GitHub Actions
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📚 Featured Projects
-
-### Project Highlight 1
-A brief description of one of your standout projects and what makes it special.
-- **Tech:** List technologies used
-- **Link:** [Repository](https://github.com/yourusername/repo-name)
-
-### Project Highlight 2
-Another great project you're proud of.
-- **Tech:** List technologies used
-- **Link:** [Repository](https://github.com/yourusername/repo-name)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harivsrd&show_icons=true&theme=radical)
-
+## 📈 GitHub Stats
+![Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harivsrd&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harivsrd&layout=compact&theme=radical)
 
 ---
 
-## 🤝 Let's Connect
-
-I'd love to connect and discuss ideas, projects, or opportunities!
-
-- **GitHub:** [@Harivsrd](https://github.com/Harivsrd)
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your Profile](https://linkedin.com/in/yourprofile)
-- **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
+## 🔥 Streaks & Contributions
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harivsrd&theme=radical)](https://git.io/streak-stats)
 
 ---
 
-## 💡 What I'm Interested In
+## 🚀 Featured Projects
+- [**Data Structures & Algorithms**](https://github.com/Harivsrd/data-structures-and-algorithms)  
+  Daily problem solutions with explanations and clean repo organization.  
 
-- Open-source contributions
-- Software architecture and design patterns
-- Web development and scalable systems
-- Building tools that solve real problems
-- Mentoring and knowledge sharing
+- [**Python Banking System**](https://github.com/Harivsrd/Python_Class_Notes)  
+  Realistic simulation with transaction logging, overdraft tracking, and modular extensibility.  
 
 ---
 
-**Thanks for visiting! Feel free to explore my repositories and reach out if you'd like to collaborate. Happy coding! 🎉**
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harivsrd)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harivsrd)
+
+---
+
+⭐️ *If you like my work, consider giving a star to my repositories!*
