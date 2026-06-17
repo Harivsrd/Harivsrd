@@ -1,6 +1,6 @@
 # Hi, I'm Hari 👋
 
-🚀 ** Full Stack Web Development | AI/ML | Python & Java Enthusiast | Daily GitHub Contributor**
+🚀 **Full Stack Web Development | AI/ML | Python & Java Enthusiast | Daily GitHub Contributor**
 
 <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300" align="right" />
 
