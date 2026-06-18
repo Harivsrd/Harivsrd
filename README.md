@@ -1,16 +1,20 @@
 # Hi, I'm Hari 👋
 
-🚀 **Full Stack Web Development | AI/ML | Python & Java Enthusiast | Daily GitHub Contributor**
+🚀 **Full-Stack Developer | Java | Spring Boot | Python | Django | MERN Stack | Problem Solver**
 
 <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300" align="right" />
 
 ---
 
 ## 🌟 About Me
-- 🔭 Building a **menu‑driven Banking System in Python** with OOP pillars  
-- 🌱 Exploring **Django REST Framework** and **Cloud Deployments**  
-- 💡 Passionate about **intelligent automation** and **algorithm design**  
-- ⚡ Debugging recursion and stack problems until they surrender 😅  
+
+* 🔭 Building full-stack applications with **Spring Boot**, **Django**, and the **MERN Stack**.
+* 🌱 Learning advanced **Backend Development**, **REST APIs**, and **System Design**.
+* 💡 Passionate about **Java**, **Python**, **DSA**, and solving real-world software challenges.
+* 🚀 Exploring scalable applications, clean architecture, and cloud technologies.
+* 🤝 Open to collaborating on Java, Python, and Full-Stack projects.
+* ⚡ Coffee ☕ + Code 💻 = Productivity 🚀
+
 
 ---
 
