@@ -1,43 +1,72 @@
-# Hi, I'm Hari 👋
+# Hi there, I'm Hari 👋
 
-🚀 **Full-Stack Developer | Java | Spring Boot | Python | Django | MERN Stack | Problem Solver**
+## 👨‍💻 About Me
 
-<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300" align="right" />
+* 🎓 B.Tech student specializing in **Artificial Intelligence & Machine Learning**
+* 💻 Passionate about **Backend Development**, **Full-Stack Web Development**, and **Problem Solving**
+* 🔭 Currently building projects using **Spring Boot**, **Django**, and the **MERN Stack**
+* 🌱 Learning **System Design**, **REST APIs**, **Cloud Computing**, and **Microservices**
+* 🧠 Practicing **Data Structures & Algorithms in Java**
+* 🤝 Open to collaborating on Java, Python, Spring Boot, Django, and MERN projects
+* 🎯 Goal: Become a Software Engineer focused on building scalable and impactful applications
 
 ---
 
-## 🌟 About Me
+## 🚀 Current Focus
 
-* 🔭 Building full-stack applications with **Spring Boot**, **Django**, and the **MERN Stack**.
-* 🌱 Learning advanced **Backend Development**, **REST APIs**, and **System Design**.
-* 💡 Passionate about **Java**, **Python**, **DSA**, and solving real-world software challenges.
-* 🚀 Exploring scalable applications, clean architecture, and cloud technologies.
-* 🤝 Open to collaborating on Java, Python, and Full-Stack projects.
-* ⚡ Coffee ☕ + Code 💻 = Productivity 🚀
-
+* 🔹 Java & Spring Boot
+* 🔹 Python & Django
+* 🔹 MERN Stack Development
+* 🔹 REST API Development
+* 🔹 Data Structures & Algorithms
+* 🔹 AWS Cloud (Learning)
 
 ---
 
 ## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 💻 Languages
+
+
+\
+
+### 🎨 Frontend
+
+
+\
+
+### ⚙️ Backend
+
+
+
+\
+
+### 🗄️ Database
+
+### 🛠️ Tools
+
+
+
+
+\
 
 ---
 
-## 🔥 Streaks & Contributions
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harivsrd&theme=radical)](https://git.io/streak-stats)
+## 📌 Featured Projects
+
+* 🍽️ **Restaurant Management System** — React, Node.js, Express.js, MongoDB
+* 🏦 **Banking Management System** — Python, Object-Oriented Programming
+* 🌐 **Portfolio Website** — React
+* 📚 More exciting projects coming soon...
 
 ---
 
-## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harivsrd)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harivsrd)
+## 📊 GitHub Statistics
 
 ---
 
-⭐️ *If you like my work, consider giving a star to my repositories!*
+## 🌍 Connect With Me
+
+---
+
+---
